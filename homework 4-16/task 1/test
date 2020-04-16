@@ -1,0 +1,14 @@
+input 130
+output 3
+
+input 550
+output 2
+
+input 567
+output -1
+
+input 123
+output -1
+
+input 1050
+output 3
